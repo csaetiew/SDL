@@ -55,6 +55,7 @@ bool init() {
 			} else {
 				//Get window surface
 				gScreenSurface = SDL_GetWindowSurface(gWindow);
+				//hihi
 			}
 		}
 	}
